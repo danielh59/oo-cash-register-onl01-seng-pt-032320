@@ -34,8 +34,7 @@ def apply_discount
 end
 
 def items
-  @item_list[name].each do |x|
-    x
+  @item_list
 end
 end
 
