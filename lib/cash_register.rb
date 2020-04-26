@@ -34,7 +34,7 @@ def apply_discount
 end
 
 def items
-    some_items_hash[name]
+  cash_register
 end
 
 end
