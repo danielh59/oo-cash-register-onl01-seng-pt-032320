@@ -36,6 +36,5 @@ end
 def items
   @item_list
 end
-end
 
 end
