@@ -34,7 +34,7 @@ def apply_discount
 end
 
 def items
-  @item_list[name]
+    some_items_hash[name]
 end
 
 end
