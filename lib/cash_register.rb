@@ -34,7 +34,7 @@ def apply_discount
 end
 
 def items
-  @item_list
+  @item_list[name]
 end
 
 end
